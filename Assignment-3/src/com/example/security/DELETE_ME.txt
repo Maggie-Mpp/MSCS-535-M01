@@ -1,0 +1,1 @@
+This directory is obsolete and will be removed. All source files are now under src/main/java/com/example/security/.
